@@ -1,7 +1,7 @@
 # test blockquotes rendering from [daringfireball](https://daringfireball.net/projects/markdown/syntax#blockquote)
 
 ## First example
-> Test \  
+> Test \
 Next line
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
